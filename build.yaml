@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nrfmicro
     shield: virgo42
     snippet: studio-rpc-usb-uart
  
